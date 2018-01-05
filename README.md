@@ -23,6 +23,7 @@ Total Points earned:
 
 Work through these courses, read the books listed below, and frequently supplement with "bonus activities" listed below.
 - [ ]  [Corey Schafer OOP](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
+- [ ]  [Flask SQL Alchemy Basics](https://prettyprinted.com/p/flask-sqlalchemy-basics)
 - [ ]  [College Algebra and Problem Solving](https://www.edx.org/course/college-algebra-problem-solving-asux-mat117x) 
 - [ ]  [Precalculus](https://www.edx.org/course/precalculus-asux-mat170x) 
 - [ ]  [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)    
